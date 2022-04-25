@@ -5,4 +5,4 @@
 - nltk
 - Pandas
 - Numpy
-- tqdm
+- tqdm  
